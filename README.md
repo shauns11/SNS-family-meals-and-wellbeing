@@ -6,6 +6,7 @@ Nicola Shelton, PhD,<sup>1</sup> and Shaun Scholes, PhD<sup>1</sup>
 **CYBERPSYCHOLOGY, BEHAVIOR, AND SOCIAL NETWORKING** 22;12,2019
 
 <sup>1</sup> Department of Epidemiology and Public Health, University College London, London, United Kingdom.
+
 <sup>2</sup> Department of Behavioural Science and Health, University College London, London, United Kingdom.
 
 
