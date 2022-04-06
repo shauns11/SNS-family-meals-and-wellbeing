@@ -1,12 +1,12 @@
 # #StateOfMind: Family Meal Frequency Moderates the Association Between Time on Social Networking Sites and Well-Being Among U.K. Young Adults
 
-Memta Ramchand Jagtiani, BSc,1 Yvonne Kelly, PhD,1 Daisy Fancourt, PhD,2
-Nicola Shelton, PhD,1 and Shaun Scholes, PhD1
+Memta Ramchand Jagtiani, BSc,<sup>1</sup> Yvonne Kelly, PhD,<sup>1</sup> Daisy Fancourt, PhD,<sup>2</sup>
+Nicola Shelton, PhD,<sup>1</sup> and Shaun Scholes, PhD<sup>1</sup>
 
 **CYBERPSYCHOLOGY, BEHAVIOR, AND SOCIAL NETWORKING** 22;12,2019
 
-1Department of Epidemiology and Public Health, University College London, London, United Kingdom.
-2Department of Behavioural Science and Health, University College London, London, United Kingdom.
+<sup>1</sup> Department of Epidemiology and Public Health, University College London, London, United Kingdom.
+<sup>2</sup> Department of Behavioural Science and Health, University College London, London, United Kingdom.
 
 
 **Abstract**
